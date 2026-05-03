@@ -1,0 +1,12 @@
+{
+    "domain": "is-pro.dev",
+    "subdomain": "shahin",
+    "owner": {
+        "username": "ShahinDadashpour",
+        "email": "shahin.dadashpour@gmail.com"
+    },
+    "records": {
+        "CNAME": "9ng02238qo.cloudylink.com"
+    },
+    "proxied": false
+}
