@@ -8,7 +8,7 @@
     },
 
     "records": {
-        "CNAME": "cname.vercel-dns.com",
+        "CNAME": "ed77f275366bb367.vercel-dns-017.com",
         "TXT": [
             {
                 "name": "_vercel",
