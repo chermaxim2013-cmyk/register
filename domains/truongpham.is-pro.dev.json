@@ -8,7 +8,13 @@
     },
 
     "records": {
-        "CNAME": "cname.vercel-dns.com"
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=truongpham.is-pro.dev,f2857e5cf40d109e107b"
+            }
+        ]
     },
 
     "proxied": false
