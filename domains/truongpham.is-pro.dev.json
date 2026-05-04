@@ -1,0 +1,21 @@
+{
+    "domain": "is-pro.dev",
+    "subdomain": "truongpham",
+
+    "owner": {
+        "username": "truongpt1093",
+        "email": "truongpt1093@gmail.com"
+    },
+
+    "records": {
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=truongpham.is-pro.dev,46a4656e7e0e905196a2"
+            }
+        ]
+    },
+
+    "proxied": false
+}
